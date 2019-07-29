@@ -9,6 +9,7 @@ public class ProyectoPrueba {
         System.out.println("La intencion es que cada uno aprenda a manejar lo basico de GitHub. \n"
                 + "Creen formularios, procesos, clases, botones, eventos, lo que quieran dentro de este proyecto y lo suben!"
                 + "\n :) ");
+        System.out.println("UwU");
     }
     
 }
